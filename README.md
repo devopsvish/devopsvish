@@ -35,9 +35,13 @@ Hi there! I'm Vishweshwaran M J, You can call me Vish!!. A passionate DevOps & C
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopsvish&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
+
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishweshwaran-mj)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mj.vishweshwaran)
+[![Docker](https://img.shields.io/badge/docker-12100E?logo=docker&logoColor=blue)](https://hub.docker.com/u/vishwesh126)
+
 
 ## 📈 GitHub Streak
 
