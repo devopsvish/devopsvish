@@ -5,7 +5,7 @@
 Hi there! I'm Vishweshwaran M J, You can call me Vish!!. A passionate DevOps & Cloud Engineer from Bangalore, India. My long term goal is to become a DevOps & Cloud Architect
 
 ## 🚀 About Me
-- 🌱 I’m currently sharpening my skills on **Kubernetes and DevOps Security**
+- 🌱 Expertise in DevOps, AWS, Terraform, Docker, Kubernetes and Ansible
 - 👨‍💻 All of my projects are available at [https://github.com/devopsvish](https://github.com/devopsvish)
 - 📝 I regularly write articles on [https://medium.com/@mj.vishweshwaran](https://medium.com/@mj.vishweshwaran)
 - 💬 Ask me about **DevOps & Cloud DevOps**
