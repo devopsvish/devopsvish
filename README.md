@@ -1,6 +1,6 @@
 # Welcome to Vish's GitHub Profile! 👋
 
-[![Profile views](https://visitcount.itsvg.in/api?id=devopsvish&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsvish&label=Profile%20views&color=0e75b6&style=flat" alt="devopsvish" /> </p>
 
 Hi there! I'm Vishweshwaran M J, You can call me Vish!!. A passionate DevOps & Cloud Engineer from Bangalore, India. My long term goal is to become a DevOps & Cloud Architect
 
